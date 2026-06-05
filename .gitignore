@@ -1,0 +1,10 @@
+# 敏感数据，永不推送到远端
+exports/L3_full.md
+exports/L2_trusted.md
+my_pca/d3_embodied.md
+my_pca/d4_emotional.md
+my_pca/d6_assets.md
+
+# 系统文件
+.DS_Store
+Thumbs.db
